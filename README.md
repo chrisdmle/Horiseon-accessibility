@@ -17,3 +17,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+Deployed Application: https://chrisdmle.github.io/Horiseon-accessibility/
+
+Screenshot of Application:
+![horiseon-screenshot](https://user-images.githubusercontent.com/107082980/174391771-fcab590e-2176-49e1-a314-c5f72f1f54a2.jpg)
